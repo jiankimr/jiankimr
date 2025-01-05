@@ -24,8 +24,9 @@
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-          <br/></div>
+          <br/>
     </div>
+
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> <br> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects.(정리 중)</div> 
     <div align= "center"> 
@@ -42,7 +43,7 @@
          <a href=mailto:jiankimr@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiankimr@gmail.com"> </a></div>  <br> 
     </div>
     
-        <div align= "center"> 
+        <div align= "center"> </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiankimr&theme=graywhite" alt="GitHub Streak" /></a><br>
     <img src="https://github-readme-stats.vercel.app/api?username=jiankimr&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
