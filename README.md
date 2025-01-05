@@ -45,9 +45,11 @@
     
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Prefer LinkedIn contact. Most Tistory posts are private. <br> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Prefer LinkedIn contact. Most Notion, Tistory posts are private. <br> </div> 
+    <br>
     <div align= "center"> 
         <a href="https://www.linkedin.com/in/jiankimr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
          <a href=https://devmorib.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://devmorib.tistory.com/"> </a>
          <a href=mailto:jiankimr@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiankimr@gmail.com"> </a>
     </div><br> 
