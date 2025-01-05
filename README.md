@@ -28,11 +28,9 @@
     <div align= "center"> 
         <a href="https://www.linkedin.com/in/jiankimr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
          <a href=https://devmorib.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://devmorib.tistory.com/"> </a>
-         <a href=mailto:jiankimr@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiankimr@gmail.com"> </a>
-
-          </div>  <br> 
-    <div align= "center">  </div> 
-    
+         <a href=mailto:jiankimr@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiankimr@gmail.com"> </a></div>  <br> 
+    </div>
+        <div align= "center">  </div> 
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiankimr&theme=graywhite" alt="GitHub Streak" /></a>
     <img src="https://github-readme-stats.vercel.app/api?username=jiankimr&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
