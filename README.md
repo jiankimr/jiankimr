@@ -1,5 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" /></div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+    <h1>Hello world, I'm Jian💡</h1>
+</div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Jian Kim(Jiankimr) </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> CS student @ Yonsei University, Seoul. </div> 
@@ -32,14 +34,15 @@
     </div>
         <div align= "center">  </div> 
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiankimr&theme=graywhite" alt="GitHub Streak" /></a>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiankimr&theme=graywhite" alt="GitHub Streak" /></a><br>
     <img src="https://github-readme-stats.vercel.app/api?username=jiankimr&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiankimr&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
 
-    
- <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+</div>
    
 
 
