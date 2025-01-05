@@ -5,7 +5,7 @@
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Self Introduction </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Jian Kim <br> CS student @ Yonsei University, Seoul. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Jian Kim <br> CS student @ Yonsei University, Seoul.<br> Interested in AI(Web Agent, Music generation) and XR </div> 
 </div>
     
 <div style="text-align: left;">
