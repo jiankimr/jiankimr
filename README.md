@@ -3,10 +3,12 @@
     <h1>Jiankimr Git Profile💡</h1>
 </div>
 <br><br>
+
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Self Introduction </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Jian Kim <br> CS student @ Yonsei University, Seoul. </div> 
     </div>
+    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
@@ -24,18 +26,17 @@
           <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-          <br/>
-    </div>
+          <br/></div>
     </div>
 
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> <br> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects.(정리 중)</div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects.(정리 중)
     <div align= "center"> 
     <a href></a>
-        
     </div>  <br> 
     </div>
+    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Prefer LinkedIn contact. Most Tistory posts are private.</div> 
