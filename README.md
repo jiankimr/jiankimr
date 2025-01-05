@@ -1,6 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=cfcfcf&height=180&text=Hello%20world,%20I'm%20Jian💡&animation=&fontColor=000000&fontSize=40" />
-    </div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header"&text=Hello%20world,%20I'm%20Jian💡&animation=&fontColor=000000&fontSize=36" />
+</div>
+    
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Jian Kim(Jiankimr) </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> CS student @ Yonsei University, Seoul. </div> 
@@ -46,7 +47,9 @@
 
 
 <!--header
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />-->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=cfcfcf&height=180&text=Hello%20world,%20I'm%20Jian💡&animation=&fontColor=000000&fontSize=40" /></div>
+-->
 
 <!--reference
 https://hulrud.tistory.com/3
