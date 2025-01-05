@@ -31,8 +31,14 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects.(정리 중)<br> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkdin.(정리 중)<br> 
     <div align= "center"> 
+        (1) BGMgen
+        <!--(2) Allaw-->
+        (3) Cheapat9
+        (4) IndieMap
+        (5) ITrust2
+        <!--(6) Trip-->
     <a href></a>
     </div> <br> 
 </div>
