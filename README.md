@@ -43,7 +43,7 @@
         (3) Cheapat9
         (4) IndieMap
         (5) ITrust2
-        <!--(6) Trip-->
+        (6) Trip
     <a href></a>
     </div> <br> 
 </div>
