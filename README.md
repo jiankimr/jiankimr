@@ -11,6 +11,7 @@
           <li>CS student @ Yonsei University, Seoul</li>
           <li>Interested in AI(Web Agent, Music generation) and XR</li>
         </ul>
+    </div>
 </div>
     
 <div style="text-align: left;">
