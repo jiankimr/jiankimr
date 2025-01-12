@@ -1,8 +1,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" / style="display: block; width: 100%; height: auto;">
-    <p style="font-weight:700; font-size:300%; text-align:center; color:#282d33;">Jiankimr Git Profile💡</p>
+    <h1>Jiankimr Git Profile💡</h1>
 </div><br><br>
-<p style="font-weight:700; font-size:300%; text-align:center; color:#282d33;">Jiankimr Git Profile💡</p>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Self Introduction </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
