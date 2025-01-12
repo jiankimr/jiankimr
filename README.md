@@ -51,7 +51,10 @@
                     <td>BGMgen</td>
                     <td>2023.12-2024.06</td>
                     <td>Researcher</td>
-                    <td><a href="https://github.com/2miwon/melody-maker-ai" target="_blank">Demo</a></td>
+                    <td><a href="--" target="_blank">Research(정리중)</a>
+                    <a href="https://github.com/2miwon/melody-maker-ai" target="_blank">Demo Repo</a>
+                    <a href="https://youtu.be/q-dG5cbDV20?feature=shared" target="_blank">Demo</a>
+                    </td>
                     <td>Conditional AI Music Generation based on Visual Analysis</td>
                 </tr>
                 <tr>
@@ -67,7 +70,11 @@
                     <td>VERFIT</td>
                     <td>2023.10-2023.12</td>
                     <td>Leader, BE</td>
-                    <td><a href="https://github.com/Verfit2023" target="_blank">Link</a></td>
+                    <td><a href="https://github.com/Verfit2023" target="_blank">Repo</a>
+                    <a href="https://youtu.be/sIgjEeNbQAU?feature=shared" target="_blank">Demo1</a>
+                    <a href="https://youtu.be/qNU8zG-fueU?feature=shared" target="_blank">Demo2</a>
+                    <a href="https://youtu.be/9Rmf-ofWwAE?feature=shared" target="_blank">Demo3</a>
+                    </td>
                     <td>Generative AI based Courseware Service for computer science college students</td>
                 </tr>
                 <tr>
@@ -97,7 +104,8 @@
                     <td>INDIEMAP</td>
                     <td>2022.03-2022.06</td>
                     <td>Full stack</td>
-                    <td><a href="https://github.com/jinmidnight01/Indie-Map" target="_blank">Link</a></td>
+                    <td><a href="https://github.com/jinmidnight01/Indie-Map" target="_blank">Repo</a>
+                    <a href="https://www.youtube.com/watch?v=TP7Y98eTxlY" target="_blank">Demo</a></td>
                     <td>Location-based SNS for Indie Musician</td>
                 </tr>
             </tbody>
