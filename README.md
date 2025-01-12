@@ -38,15 +38,14 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkdin.<br> 
     <div align= "center"> 
-                <h1>프로젝트 설명</h1>
         <table>
             <thead>
                 <tr>
-                    <th>프로젝트 이름</th>
-                    <th>기간</th>
-                    <th>역할</th>
-                    <th>깃헙 링크</th>
-                    <th>소개글</th>
+                    <th>Project</th>
+                    <th>Period</th>
+                    <th>Role</th>
+                    <th>Git repo</th>
+                    <th>Description</th>
                 </tr>
             </thead>
             <tbody>
