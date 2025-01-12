@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" / style="display: block; width: 100%; height: auto;">
     <h1>Jiankimr Git Profile💡</h1></div>
 <br><br>
 
@@ -50,7 +50,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>AI 기반 검색 엔진</td>
+                    <td>BGMgen</td>
                     <td>2024.01 - 2024.06</td>
                     <td>백엔드 개발자</td>
                     <td><a href="https://github.com/username/project1" target="_blank">깃헙 링크</a></td>
