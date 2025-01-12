@@ -51,7 +51,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>EmoBGMgen</td>
+                    <td>BGMgen</td>
                     <td>2023.12-2024.06</td>
                     <td>Researcher</td>
                     <td><a href="https://github.com/username/project1" target="_blank">깃헙 링크</a></td>
