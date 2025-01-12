@@ -1,7 +1,7 @@
-<div align= "center">
+<div align= "center" style="font-weight: 700; font-size: 7; text-align: left; color: #282d33;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" / style="display: block; width: 100%; height: auto;">
-    <font-size="10" face="TmonMonsoriOTF" >Jiankimr Git Profile💡</font></div>
-<br><br>
+    Jiankimr Git Profile💡
+</div><br><br>
 
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Self Introduction </h2>  
