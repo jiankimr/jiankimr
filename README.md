@@ -1,4 +1,4 @@
-<div align= "center" style="font-weight: 700; font-size: 24px; text-align: left; color: #282d33;">
+<div style="align:center; font-weight: 700; font-size: 24px; text-align: left; color: #282d33;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" / style="display: block; width: 100%; height: auto;">
     Jiankimr Git Profile💡
 </div><br><br>
