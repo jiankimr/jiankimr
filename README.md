@@ -70,7 +70,7 @@
                     <td>VERFIT</td>
                     <td>2023.10-2023.12</td>
                     <td>Leader, BE</td>
-                    <td><a href="https://github.com/Verfit2023" target="_blank">Repo</a>
+                    <td><a href="https://github.com/jiankimr/Verfit-be-v1" target="_blank">Repo</a>
                     <a href="https://youtu.be/sIgjEeNbQAU?feature=shared" target="_blank">Demo1</a>
                     <a href="https://youtu.be/qNU8zG-fueU?feature=shared" target="_blank">Demo2</a>
                     <a href="https://youtu.be/9Rmf-ofWwAE?feature=shared" target="_blank">Demo3</a>
