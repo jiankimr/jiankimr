@@ -81,7 +81,8 @@
                     <td>CHEAPAT9</td>
                     <td>2023.07-2023.12</td>
                     <td>Infra, Ops</td>
-                    <td><a href="https://github.com/0921sean/cheapat9" target="_blank">Link</a></td>
+                    <td><a href="https://github.com/0921sean/cheapat9" target="_blank">Repo</a>
+                    <a href="https://morib.notion.site/9-Deploy-f649085ca956422286c4bf73aec3a65e?pvs=4" target="_blank">Infra</a></td>
                     <td>Online Store of Big-discount necessities for people living alone</td>
                 </tr>
                 <tr>
