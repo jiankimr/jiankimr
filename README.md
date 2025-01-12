@@ -64,7 +64,7 @@
                     <td><a href="https://github.com/2miwon/aws-winter-allaw" target="_blank">v1</a>
                     <a href="https://github.com/2miwon/allaw-backend-v1" target="_blank">v2</a>
                     </td>
-                    <td>National Assembly Data Utilization Service Based on Generative AI</td>
+                    <td>National Assembly Data Utilization Service Based on Generative AI, Current version of the repository is private</td>
                 </tr>
                 <tr>
                     <td>VERFIT</td>
