@@ -51,42 +51,42 @@
                     <td>BGMgen</td>
                     <td>2023.12-2024.06</td>
                     <td>Researcher</td>
-                    <td><a href="https://github.com/username/project1" target="_blank">깃헙 링크</a></td>
+                    <td><a href="https://github.com/username/project1" target="_blank">Link</a></td>
                     <td>Conditional AI Music Generation based on Visual Analysis</td>
                 </tr>
                 <tr>
                     <td>ALLAW</td>
                     <td>2024.01-2024.11</td>
                     <td>BE</td>
-                    <td><a href="https://github.com/username/project2" target="_blank">깃헙 링크</a></td>
+                    <td><a href="https://github.com/username/project2" target="_blank">Link</a></td>
                     <td>National Assembly Data Utilization Service Based on Generative AI</td>
                 </tr>
                 <tr>
                     <td>VERFIT</td>
                     <td>2023.10-2023.12</td>
                     <td>Leader, BE</td>
-                    <td><a href="https://github.com/username/project3" target="_blank">깃헙 링크</a></td>
+                    <td><a href="[https://github.com/username/project3](https://github.com/Verfit2023)" target="_blank">Link</a></td>
                     <td>Generative AI based Courseware Service for computer science college students</td>
                 </tr>
                 <tr>
                     <td>ITrust2</td>
                     <td>2023.09-2023.12</td>
                     <td>BE, Infra</td>
-                    <td><a href="https://github.com/username/project3" target="_blank">깃헙 링크</a></td>
+                    <td><a href="https://github.com/username/project3" target="_blank">Link</a></td>
                     <td>Healthcare delivery platform,Project conducted by 10 people for software engineering process experience</td>
                 </tr>
                 <tr>
                     <td>CHEAPAT9</td>
                     <td>2023.07-2023.12</td>
                     <td>Infra, Ops</td>
-                    <td><a href="https://github.com/username/project3" target="_blank">깃헙 링크</a></td>
+                    <td><a href="https://github.com/username/project3" target="_blank">Link</a></td>
                     <td>Online Store of Big-discount necessities for people living alone</td>
                 </tr>
                 <tr>
                     <td>INDIEMAP</td>
                     <td>2022.03-2022.06</td>
                     <td>Full stack</td>
-                    <td><a href="https://github.com/username/project3" target="_blank">깃헙 링크</a></td>
+                    <td><a href="https://github.com/username/project3" target="_blank">Link</a></td>
                     <td>Location-based SNS for Indie Musician</td>
                 </tr>
             </tbody>
