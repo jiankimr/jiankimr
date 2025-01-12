@@ -36,15 +36,43 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkdin.(정리 중)<br> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkdin.<br> 
     <div align= "center"> 
-        (1) BGMgen
-        <!--(2) Allaw-->
-        (3) Cheapat9
-        (4) IndieMap
-        (5) ITrust2
-        (6) Trip
-    <a href></a>
+                <h1>프로젝트 설명</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>프로젝트 이름</th>
+                    <th>기간</th>
+                    <th>역할</th>
+                    <th>깃헙 링크</th>
+                    <th>소개글</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>AI 기반 검색 엔진</td>
+                    <td>2024.01 - 2024.06</td>
+                    <td>백엔드 개발자</td>
+                    <td><a href="https://github.com/username/project1" target="_blank">깃헙 링크</a></td>
+                    <td>사용자 친화적인 AI 검색 엔진 개발</td>
+                </tr>
+                <tr>
+                    <td>모바일 헬스케어 앱</td>
+                    <td>2023.05 - 2023.12</td>
+                    <td>풀스택 개발자</td>
+                    <td><a href="https://github.com/username/project2" target="_blank">깃헙 링크</a></td>
+                    <td>개인 건강 관리 기능 제공</td>
+                </tr>
+                <tr>
+                    <td>블록체인 결제 시스템</td>
+                    <td>2022.09 - 2023.03</td>
+                    <td>프로젝트 매니저</td>
+                    <td><a href="https://github.com/username/project3" target="_blank">깃헙 링크</a></td>
+                    <td>안전한 블록체인 결제 솔루션 설계</td>
+                </tr>
+            </tbody>
+        </table>
     </div> <br> 
 </div>
     
