@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" / style="display: block; width: 100%; height: auto;">
-    <p style="font-size: 200%; text-align: center; color: #282d33;">Jiankimr Git Profile💡</p>
+    <p style="font-weight:700; font-size:300%; text-align:center; color:#282d33;">Jiankimr Git Profile💡</p>
 </div><br><br>
 
 <div style="text-align: left;"> 
