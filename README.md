@@ -36,39 +36,61 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkdin.<br> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkdin.<br>
+        <br> 
     <div align= "center"  style="display: block; width: 100%; height: auto;" > 
         <table>
             <thead>
                 <tr>
                     <th>Project</th>
                     <th>Period</th>
-                    <th>Role</th>
-                    <th>Git repo</th>
+                    <th>Major Role</th>
+                    <th>Git Repo</th>
                     <th>Description</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>BGMgen</td>
+                    <td>EmoBGMgen</td>
                     <td>2023.12-2024.06</td>
-                    <td>researcher</td>
+                    <td>Researcher</td>
                     <td><a href="https://github.com/username/project1" target="_blank">깃헙 링크</a></td>
                     <td>Conditional AI Music Generation based on Visual Analysis</td>
                 </tr>
                 <tr>
-                    <td>모바일 헬스케어 앱</td>
-                    <td>2023.05 - 2023.12</td>
-                    <td>풀스택 개발자</td>
+                    <td>ALLAW</td>
+                    <td>2024.01-2024.11</td>
+                    <td>BE</td>
                     <td><a href="https://github.com/username/project2" target="_blank">깃헙 링크</a></td>
-                    <td>개인 건강 관리 기능 제공</td>
+                    <td>National Assembly Data Utilization Service Based on Generative AI</td>
                 </tr>
                 <tr>
-                    <td>블록체인 결제 시스템</td>
-                    <td>2022.09 - 2023.03</td>
-                    <td>프로젝트 매니저</td>
+                    <td>VERFIT</td>
+                    <td>2023.10-2023.12</td>
+                    <td>Leader, BE</td>
                     <td><a href="https://github.com/username/project3" target="_blank">깃헙 링크</a></td>
-                    <td>안전한 블록체인 결제 솔루션 설계</td>
+                    <td>Generative AI based Courseware Service for computer science college students</td>
+                </tr>
+                <tr>
+                    <td>ITrust2</td>
+                    <td>2023.09-2023.12</td>
+                    <td>BE, Infra</td>
+                    <td><a href="https://github.com/username/project3" target="_blank">깃헙 링크</a></td>
+                    <td>Healthcare delivery platform,Project conducted by 10 people for software engineering process experience</td>
+                </tr>
+                <tr>
+                    <td>CHEAPAT9</td>
+                    <td>2023.07-2023.12</td>
+                    <td>Infra, Ops</td>
+                    <td><a href="https://github.com/username/project3" target="_blank">깃헙 링크</a></td>
+                    <td>Online Store of Big-discount necessities for people living alone</td>
+                </tr>
+                <tr>
+                    <td>INDIEMAP</td>
+                    <td>2022.03-2022.06</td>
+                    <td>Full stack</td>
+                    <td><a href="https://github.com/username/project3" target="_blank">깃헙 링크</a></td>
+                    <td>Location-based SNS for Indie Musician</td>
                 </tr>
             </tbody>
         </table>
