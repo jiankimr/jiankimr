@@ -42,7 +42,7 @@
                     <th>Project</th>
                     <th>Period</th>
                     <th>Major Role</th>
-                    <th>Git Repo</th>
+                    <th>Link</th>
                     <th>Description</th>
                 </tr>
             </thead>
