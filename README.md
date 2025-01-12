@@ -37,7 +37,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkdin.<br> 
-    <div align= "center"> 
+    <div align= "center"  style="display: block; width: 100%; height: auto;" > 
         <table>
             <thead>
                 <tr>
@@ -51,10 +51,10 @@
             <tbody>
                 <tr>
                     <td>BGMgen</td>
-                    <td>2024.01 - 2024.06</td>
-                    <td>백엔드 개발자</td>
+                    <td>2023.12-2024.06</td>
+                    <td>researcher</td>
                     <td><a href="https://github.com/username/project1" target="_blank">깃헙 링크</a></td>
-                    <td>사용자 친화적인 AI 검색 엔진 개발</td>
+                    <td>Conditional AI Music Generation based on Visual Analysis</td>
                 </tr>
                 <tr>
                     <td>모바일 헬스케어 앱</td>
@@ -98,7 +98,7 @@
 </div>
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" / style="display: block; width: 100%; height: auto;">
 </div>
    
 
