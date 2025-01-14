@@ -94,13 +94,6 @@
                     <td>Online Store of Big-discount necessities for people living alone</td>
                 </tr>
                 <tr>
-                    <td>IBULBAK</td>
-                    <td>2023.07-2023.12</td>
-                    <td>Leader, BE</td>
-                    <td><a href="https://github.com/jiankimr/StepUp" target="_blank">Link</a></td>
-                    <td> Mind Care Mobile Web Service</td>
-                </tr>
-                <tr>
                     <td>INDIEMAP</td>
                     <td>2022.03-2022.06</td>
                     <td>Full stack</td>
