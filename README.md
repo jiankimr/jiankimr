@@ -124,6 +124,7 @@
     <div align= "center">
     <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiankimr&theme=graywhite" alt="GitHub Streak" /></a><br>-->
     <img src="https://github-readme-stats.vercel.app/api?username=jiankimr&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=jiankimr&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/><br>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiankimr&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>-->
     </div> 
 </div>
