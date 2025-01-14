@@ -5,7 +5,7 @@
 <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
     <ul>
         <li>Jian Kim</li>
-        <li>CS student @ Yonsei University, Seoul</li>
+        <li>CS student @ Yonsei University, Seoul KR</li>
         <li>Interested in AI(Web Agent, Music generation) and XR</li>
     </ul>
 </div><br> 
