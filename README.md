@@ -78,10 +78,10 @@
                     <td>Generative AI based Courseware Service for computer science college students</td>
                 </tr>
                 <tr>
-                    <td>ITrust2</td>
+                    <td>iTrust2</td>
                     <td>2023.09-2023.12</td>
                     <td>BE, Infra</td>
-                    <td><a href="https://github.com/username/project3" target="_blank">Repo(정리중)</a>
+                    <td><a href="https://github.com/jiankimr/iTrust2" target="_blank">Repo</a>
                     <a href="https://morib.notion.site/Deploy-580b3b7b51374b8091e9b4815249d50e?pvs=4" target="_blank">Infra</a></td>
                     <td>Healthcare delivery platform,Project conducted by 10 people for software engineering process experience</td>
                 </tr>
