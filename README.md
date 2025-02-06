@@ -117,17 +117,16 @@
          <a href=mailto:jiankimr@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiankimr@gmail.com"> </a>
     </div><br> 
 </div>
-    
-<div align= "center"> 
-    <div style="text-align: left;"> 
+
+<!--
+<div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div align= "center">
     <!--<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jiankimr&theme=graywhite" alt="GitHub Streak" /></a><br>-->
     <img src="https://github-readme-stats.vercel.app/api?username=jiankimr&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiankimr&langs_count=3&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/><br>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiankimr&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>-->
-    </div> 
-</div>
+    </div> -->
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" / style="display: block; width: 100%; height: auto;">
