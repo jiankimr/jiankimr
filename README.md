@@ -118,7 +118,7 @@
     </div><br> 
 </div>
     
-<div align= "center"> </div>
+<!--<div align= "center"> </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div align= "center">
@@ -127,7 +127,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiankimr&langs_count=3&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/><br>
     <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiankimr&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>-->
     </div> 
-</div>
+</div>-->
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" / style="display: block; width: 100%; height: auto;">
