@@ -6,7 +6,7 @@
     <ul>
         <li>Jian Kim</li>
         <li>CS student @ Yonsei University, Seoul KR</li>
-        <li>Interested in AI(Web Agent, Music generation) and XR</li>
+        <li>Interested in AI(AI Safety, GUI Agent, Music generation) and XR</li>
     </ul>
 </div><br> 
 
