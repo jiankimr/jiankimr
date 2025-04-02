@@ -48,6 +48,15 @@
             </thead>
             <tbody>
                 <tr>
+                    <td>SUDO</td>
+                    <td>2024.01-2024.03</td>
+                    <td>Researcher</td>
+                    <td><a href="https://github.com/AIM-Intelligence/SUDO" target="_blank">Code</a>
+                    <a href="https://arxiv.org/abs/2503.20279" target="_blank">Paper</a>
+                    </td>
+                    <td>SUDO(Screen-based Universal Detox2Tox Offense), a attack framework that systematically bypasses refusal trained safeguards in commercial computer-use agents</td>
+                </tr>
+                <tr>
                     <td>BGMgen</td>
                     <td>2023.12-2024.06</td>
                     <td>Researcher</td>
