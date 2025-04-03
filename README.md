@@ -33,7 +33,7 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce *some* of the projects. You can find other projects explanation in my linkdin.<br>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkdin.<br>
         <br> 
     <div align= "center"  style="display: block; width: 100%; height: auto;" > 
         <table>
@@ -56,6 +56,12 @@
                     </td>
                     <td>SUDO(Screen-based Universal Detox2Tox Offense), a attack framework that systematically bypasses refusal trained safeguards in commercial computer-use agents</td>
                 </tr>
+                    <td>SAFEA</td>
+                    <td>2024.01-2024.02</td>
+                    <td>Research Assistant</td>
+                    <a href="--" target="_blank">Paper(under review)</a>
+                    </td>
+                    <td>Embodied Safety project at MIR lab</td>
                 <tr>
                     <td>BGMgen</td>
                     <td>2023.12-2024.06</td>
