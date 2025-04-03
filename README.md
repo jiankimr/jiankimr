@@ -59,7 +59,7 @@
                     <td>SAFEA</td>
                     <td>2024.01-2024.02</td>
                     <td>Research Assistant</td>
-                    <a href="--" target="_blank">Paper(under review)</a>
+                    <td><a href="--" target="_blank">Paper(under review)</a>
                     </td>
                     <td>Embodied Safety project at MIR lab</td>
                 <tr>
