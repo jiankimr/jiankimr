@@ -33,7 +33,7 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkdin.<br>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce *some* of the projects. You can find other projects explanation in my linkdin.<br>
         <br> 
     <div align= "center"  style="display: block; width: 100%; height: auto;" > 
         <table>
