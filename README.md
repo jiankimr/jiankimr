@@ -6,7 +6,7 @@
     <ul>
         <li>Jian Kim</li>
         <li>CS student @ Yonsei University, Seoul KR</li>
-        <li>Interested in AI(AI Safety, Embodied Agent, Music generation) and XR</li>
+        <li>Interested in AI(AI Safety, Embodied Agent) and XR</li>
     </ul>
 </div><br> 
 
@@ -59,7 +59,7 @@
                     <td>SAFEA</td>
                     <td>2024.01-2024.02</td>
                     <td>Research Assistant</td>
-                    <td><a href="--" target="_blank">Paper(under review)</a>
+                    <td><a href="https://arxiv.org/abs/2505.19933" target="_blank">Paper(under review)</a>
                     </td>
                     <td>Embodied Safety project at MIR lab</td>
                 <tr>
