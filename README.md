@@ -56,7 +56,7 @@
                     </td>
                     <td>SUDO(Screen-based Universal Detox2Tox Offense), a attack framework that systematically bypasses refusal trained safeguards in commercial computer-use agents</td>
                 </tr>
-                    <td>SAFEA</td>
+                    <td>SAFEL</td>
                     <td>2024.01-2024.02</td>
                     <td>Research Assistant</td>
                     <td><a href="https://arxiv.org/abs/2505.19933" target="_blank">Paper(2025 EMNLP)</a>
