@@ -30,7 +30,7 @@
           <br/>
     </div>
 </div>
-<!--
+
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkdin.<br>
@@ -108,19 +108,19 @@
                     <a href="https://morib.notion.site/9-Deploy-f649085ca956422286c4bf73aec3a65e?pvs=4" target="_blank">Infra</a></td>
                     <td>Online Store of Big-discount necessities for people living alone</td>
                 </tr>
-                <tr>
+                <!--<tr>
                     <td>INDIEMAP</td>
                     <td>2022.03-2022.06</td>
                     <td>Full stack</td>
                     <td><a href="https://github.com/jinmidnight01/Indie-Map" target="_blank">Repo</a>
                     <a href="https://www.youtube.com/watch?v=TP7Y98eTxlY" target="_blank">Demo</a></td>
                     <td>Location-based SNS for Indie Musician</td>
-                </tr>
+                </tr>-->
             </tbody>
         </table>
     </div> <br> 
 </div>
--->
+
     
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
