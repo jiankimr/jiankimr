@@ -115,7 +115,7 @@
                     <td><a href="https://github.com/jinmidnight01/Indie-Map" target="_blank">Repo</a>
                     <a href="https://www.youtube.com/watch?v=TP7Y98eTxlY" target="_blank">Demo</a></td>
                     <td>Location-based SNS for Indie Musician</td>
-                </tr>-->
+                </tr>
             </tbody>
         </table>
     </div>
