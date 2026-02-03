@@ -11,7 +11,7 @@
 </div><br> 
 
 <div style="text-align: left;">
-    <!--<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>--> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
     <div  align= "center"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
           <!--<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
           <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">-->
@@ -124,7 +124,7 @@
 
     
 <div style="text-align: left;">
-    <!--<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> -->
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Contact me: Prefer LinkedIn contact. Most Notion, Tistory posts are private. <br> </div> 
     <br>
     <div align= "center"> 
