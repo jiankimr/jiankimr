@@ -33,7 +33,7 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> 
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkdin. (Last updated: 2025.05)<br>
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkedin. (Last updated: 2025.05)<br>
         <br> 
     <div align= "center"  style="display: block; width: 100%; height: auto;" > 
         <table>
@@ -54,7 +54,7 @@
                     <td><a href="https://github.com/AIM-Intelligence/SUDO" target="_blank">Code</a>
                     <a href="https://arxiv.org/abs/2503.20279" target="_blank">Paper(2025 ACL Industry)</a>
                     </td>
-                    <td>SUDO(Screen-based Universal Detox2Tox Offense), a attack framework that systematically bypasses refusal trained safeguards in commercial computer-use agents</td>
+                    <td>SUDO(Screen-based Universal Detox2Tox Offense), an attack framework that systematically bypasses refusal trained safeguards in commercial computer-use agents</td>
                 </tr>
                     <td>SAFEL</td>
                     <td>2025.01-2025.02</td>
