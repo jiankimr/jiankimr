@@ -2,7 +2,7 @@
 
 I'm in the integrated M.S./Ph.D. program at KAIST's Graduate School of AI. I earned my B.S. in Computer Science at Yonsei University.
 
-I study the safety and security of vision-language-action models. My current work examines how poisoned training demonstrations can increase the load on a robot's joints even when it completes its task.
+I study the safety and security of vision-language-action models. My current work explores how attackers can exploit blind spots in the metrics used to evaluate robot policies.
 
 ## Selected research
 
