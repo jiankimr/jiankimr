@@ -4,13 +4,6 @@ I'm in the integrated M.S./Ph.D. program at KAIST's Graduate School of AI. I ear
 
 I study the safety and security of vision-language-action models. My current work explores how attackers can exploit blind spots in the metrics used to evaluate robot policies.
 
-## Selected research
-
-- **XVR** · CVPR 2026 · Training vision-language models to match objects and reason about their positions across camera views. [Project](https://cross-view-relations.github.io/)
-- **SPACE** · CoRL 2026 Workshop · Learning from demonstrations collected on different robots by adapting control commands to each robot. [Project](https://haeone.site/space-website/)
-- **SAFEL** · EMNLP 2025 · Evaluating whether embodied agents refuse unsafe instructions and produce safe, executable plans. [Paper](https://aclanthology.org/2025.emnlp-main.1305/)
-- **SUDO** · ACL 2025 · Co-first author · Testing how screen-based attacks bypass safeguards in computer-use agents. [Paper](https://aclanthology.org/2025.acl-industry.75/) · [Code](https://github.com/AIM-Intelligence/SUDO)
-
 [LinkedIn](https://www.linkedin.com/in/jiankimr/) · [Website](https://jiankimr.github.io/) · [Email](mailto:jiankimr@gmail.com)
 
 <!-- Previous profile, archived 2026-11-04.
