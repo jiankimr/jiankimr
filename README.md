@@ -1,3 +1,22 @@
+# Jian Kim
+
+I'm in the integrated M.S./Ph.D. program at KAIST's Graduate School of AI. I earned my B.S. in Computer Science at Yonsei University.
+
+I study the safety and security of vision-language-action models. My current work examines how poisoned training demonstrations can increase the load on a robot's joints even when it completes its task.
+
+## Selected research
+
+- **XVR** · CVPR 2026 · Training vision-language models to match objects and reason about their positions across camera views. [Project](https://cross-view-relations.github.io/)
+- **SPACE** · CoRL 2026 Workshop · Learning from demonstrations collected on different robots by adapting control commands to each robot. [Project](https://haeone.site/space-website/)
+- **SAFEL** · EMNLP 2025 · Evaluating whether embodied agents refuse unsafe instructions and produce safe, executable plans. [Paper](https://aclanthology.org/2025.emnlp-main.1305/)
+- **SUDO** · ACL 2025 · Co-first author · Testing how screen-based attacks bypass safeguards in computer-use agents. [Paper](https://aclanthology.org/2025.acl-industry.75/) · [Code](https://github.com/AIM-Intelligence/SUDO)
+
+[LinkedIn](https://www.linkedin.com/in/jiankimr/) · [Website](https://jiankimr.github.io/) · [Email](mailto:jiankimr@gmail.com)
+
+<!-- Previous profile, archived 2026-11-04.
+To restore, copy the text between the archive markers and replace every
+&#45;&#45; with two hyphens.
+BEGIN ORIGINAL README
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" / style="display: block; width: 100%; height: auto;">
     <h1>🧑‍💻 Jiankimr Profile💡</h1>
@@ -13,12 +32,12 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>
     <div  align= "center"> <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
-          <!--<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-          <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">-->
+          <!&#45;&#45;<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white">&#45;&#45;>
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
-          <!--<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">-->
+          <!&#45;&#45;<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">&#45;&#45;>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <br/><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
@@ -31,7 +50,7 @@
     </div>
 </div>
 
-<!--<div style="text-align: left;">
+<!&#45;&#45;<div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ Projects </h2> 
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">Let me introduce some of the projects. You can find other projects explanation in my linkedin. (Last updated: 2025.05)<br>
         <br> 
@@ -66,7 +85,7 @@
                     <td>BGMgen</td>
                     <td>2023.12-2024.06</td>
                     <td>Researcher</td>
-                    <td><a href="--" target="_blank">Research(정리중)</a>
+                    <td><a href="&#45;&#45;" target="_blank">Research(정리중)</a>
                     <a href="https://github.com/2miwon/melody-maker-ai" target="_blank">Demo Repo</a>
                     <a href="https://youtu.be/q-dG5cbDV20?feature=shared" target="_blank">Demo</a>
                     </td>
@@ -108,7 +127,7 @@
                     <a href="https://morib.notion.site/9-Deploy-f649085ca956422286c4bf73aec3a65e?pvs=4" target="_blank">Infra</a></td>
                     <td>Online Store of Big-discount necessities for people living alone</td>
                 </tr>
-                <!--<tr>
+                <!&#45;&#45;<tr>
                     <td>INDIEMAP</td>
                     <td>2022.03-2022.06</td>
                     <td>Full stack</td>
@@ -120,7 +139,7 @@
         </table>
     </div>
 </div>
--->
+&#45;&#45;>
 
     
 <div style="text-align: left;">
@@ -135,7 +154,7 @@
     </div><br> 
 </div>
 
-<!--
+<!&#45;&#45;
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div align= "center">
@@ -145,19 +164,22 @@
     <<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiankimr&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"/>
     </div> 
 </div>
--->
+&#45;&#45;>
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" / style="display: block; width: 100%; height: auto;">
 </div>
    
 
-<!--header
+<!&#45;&#45;header
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <img src="https://capsule-render.vercel.app/api?type=wave&color=cfcfcf&height=180&text=Hello%20world,%20I'm%20Jian💡&animation=&fontColor=000000&fontSize=40" /></div>
--->
+&#45;&#45;>
 
-<!--reference
+<!&#45;&#45;reference
 https://hulrud.tistory.com/3
 https://streak-stats.demolab.com/demo/?user=jiankimr&theme=default&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background
+&#45;&#45;>
+
+END ORIGINAL README
 -->
